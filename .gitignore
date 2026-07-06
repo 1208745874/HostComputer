@@ -1,0 +1,10 @@
+# Visual Studio 缓存
+.vs/
+bin/
+obj/
+*.user
+*.suo
+
+# 系统文件
+Thumbs.db
+Desktop.ini
